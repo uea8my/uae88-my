@@ -116,7 +116,7 @@ display:inline-block;padding:6px 10px;border-radius:999px;}
 }
 
 .modal-backdrop{
-  position:fixed; inset:0; background:rgb(0 0 0 / 40%); display:none; align-items:center; justify-content:center; z-index:1000;
+  position:fixed; inset:0; background:rgb(0 0 0 / 50%); display:none; align-items:center; justify-content:center; z-index:1000;
 }
 .modal{background:var(--card); border:1px solid rgba(255,255,255,.2); border-radius:16px; padding:22px; width:min(520px, 92vw); box-shadow:var(--shadow)}
 .modal h3{margin-top:0}
